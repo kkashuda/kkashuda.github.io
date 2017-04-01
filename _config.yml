@@ -1,0 +1,21 @@
+# Site settings
+title: Kelly Kashuda
+header-img: img/home-bg.png
+email: kkashuda@gmail.com
+copyright_name: kkashuda
+description: > # this means to ignore newlines until "baseurl:"
+  my own little personal page on the world wide web 
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  kkashuda
+learn_profile: kkashuda
+email_username: kkashuda@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
