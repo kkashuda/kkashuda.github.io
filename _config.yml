@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: kkashuda@gmail.com
 copyright_name: kkashuda
 description: > # this means to ignore newlines until "baseurl:"
-  my own little personal page on the world wide web 
+  Full-Stack Web Developer 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kkashuda
