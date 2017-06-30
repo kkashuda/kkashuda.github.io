@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "**My Own Little *Gem*! **"
+title:  "Building a Ruby Gem "
 date:   2017-03-31 22:53:59 -0400
 ---
 
