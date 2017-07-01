@@ -28,7 +28,7 @@ And I created a constructor to create a new comment for when I dynamically appen
     }
 ```
 
-The logic that went into actually appending the data to the DOM was done through Ajax. Ajax is a client side script that communicates with the servers that is able to update parts of a page without needing a page refresh. Ajax uses the data serialized from JSON, a lightweight alternative to XML. 
+The logic that went into actually appending the data to the DOM was done through Ajax. Ajax is a client side script that communicates with the servers that is able to update parts of a page without needing a page refresh. Ajax uses the data serialized from JSON, a lightweight alternative to XML. Ajax isn't necessarily hard, you just have to be very organized in your thought process. For example while you are writing out a get or post request using Ajax you'll likely need to use the debugger and test as you go in the browser. With frameworks like React and Angular some of these nit picky details are abstracted away but as a professional web developer it is important to know what is going on under the hood. 
 
 Experimenting with these different tools and building these functionalities from the ground up was a lot of fun. I look forward to using React to build flexible, dynamic user interfaces with a more lightweight, abstract description of what to render. 
 
